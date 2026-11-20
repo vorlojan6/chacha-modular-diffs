@@ -2,6 +2,7 @@
 
 This repository contains an in-depth differential analysis of round-reduced [ChaCha](https://cr.yp.to/chacha/chacha-20080128.pdf), whose goal was to explain the origin of the surprisingly strong 3-round Neural Distinguisher found in the [KIMSK projects](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/Studies/Cryptography/KIMSK_Final-Report.pdf?__blob=publicationFile&v=4) by the BSI.
 
+This project was done as a Bachelor thesis at the Chair for Symmetric Cryptography, Ruhr University Bochum, Germany.
 
 
 ## Motivation
